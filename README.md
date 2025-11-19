@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, I am Helal Khan.  MERN Stack Developer.<br> I am an expert in<br> **Front-End:**<br> React, Next.js, HTML, CSS (Tailwind CSS/Bootstrap).<br>**Back-End:** Node.js, Express.js<br>**Database:** MongoDB, PostgreSQL.<br>And I love building responsive and modern applications.
+## 💫 About Me
+
+Hi, I’m **Helal Khan**, a passionate **MERN Stack Developer** dedicated to building fast, modern, and user-friendly web applications.
+
+### 🚀 What I Do
+- **Frontend Development:**  
+  React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+- **Backend Development:**  
+  Node.js, Express.js  
+
+- **Databases:**  
+  MongoDB, PostgreSQL  
+
+### 💡 What I Love
+I enjoy creating **responsive**, **scalable**, and **modern** web applications with clean code and great user experience.
 
 
 ## 🌐 Socials:
